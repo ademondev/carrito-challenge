@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       colors: {
         darkMode: true,
+        customCardColor: '#44403c',
+        customCardTextColor: '#616153',
+        customPriceCardColor: '#22c655'
       },
     },
   },
