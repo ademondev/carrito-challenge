@@ -41,5 +41,70 @@
       "imagen": "http://localhost:3000/Icon5.png"
     }
   ],
-  "compras": []
+  "compras": [
+    {
+      "itemIds": [
+        1,
+        2,
+        5
+      ],
+      "id": 1
+    },
+    {
+      "itemIds": [
+        1,
+        2,
+        5
+      ],
+      "id": 2
+    },
+    {
+      "itemIds": [
+        1,
+        2,
+        5
+      ],
+      "id": 3
+    },
+    {
+      "itemIds": [
+        4
+      ],
+      "id": 4
+    },
+    {
+      "itemIds": [
+        1
+      ],
+      "id": 5
+    },
+    {
+      "itemIds": [
+        1
+      ],
+      "id": 6
+    },
+    {
+      "itemIds": [
+        1
+      ],
+      "id": 7
+    },
+    {
+      "itemIds": [
+        1,
+        2,
+        5
+      ],
+      "id": 8
+    },
+    {
+      "itemIds": [
+        1,
+        2,
+        5
+      ],
+      "id": 9
+    }
+  ]
 }
